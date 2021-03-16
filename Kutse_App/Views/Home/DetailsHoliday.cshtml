@@ -1,13 +1,13 @@
 ﻿@model Kutse_App.Models.Holidays
 
 @{
-    ViewBag.Title = "DetailsHoliday";
+    ViewBag.Title = "Pidu Üksikasjad";
 }
 
-<h2>DetailsHoliday</h2>
+<h2>Peo Üksikasjad</h2>
 
 <div>
-    <h4>Holidays</h4>
+    <h4>Peod</h4>
     <hr />
     <dl class="dl-horizontal">
         <dt>
@@ -29,6 +29,6 @@
     </dl>
 </div>
 <p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Muuda", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Tagasi nimekirja", "Index")
 </p>
