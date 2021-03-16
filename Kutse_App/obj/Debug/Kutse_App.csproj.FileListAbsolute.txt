@@ -76,6 +76,8 @@ C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\System.Web.WebPages.Deploymen
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\System.Web.WebPages.dll
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\System.Web.WebPages.Razor.dll
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\WebGrease.dll
+C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\EntityFramework.xml
+C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\EntityFramework.SqlServer.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\System.Web.Helpers.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\System.Web.Mvc.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\System.Web.Optimization.xml
@@ -85,8 +87,6 @@ C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\System.Web.WebPages.Deploymen
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\System.Web.WebPages.Razor.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Newtonsoft.Json.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Antlr3.Runtime.pdb
-C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\EntityFramework.xml
-C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\EntityFramework.SqlServer.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
@@ -100,8 +100,8 @@ C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Microsoft.Owin.Security.Twitt
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Game\source\repos\Kutse_App\Kutse_App\obj\Debug\Kutse_App.csprojAssemblyReference.cache
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\obj\Debug\Kutse_App.csproj.CoreCompileInputs.cache
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\obj\Debug\Kutse_App.csproj.CopyComplete
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\obj\Debug\Kutse_App.dll
 C:\Users\Game\source\repos\Kutse_App\Kutse_App\obj\Debug\Kutse_App.pdb
+C:\Users\Game\source\repos\Kutse_App\Kutse_App\obj\Debug\Kutse_App.csprojAssemblyReference.cache
